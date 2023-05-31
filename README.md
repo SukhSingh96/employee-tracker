@@ -1,5 +1,5 @@
 # Employee Tracker
-As a business owner, it would be helpful to be able to view and manage the departments, roles, and employees in your company and organize and plan your business. Employee Tracker is here to help you keep everything organized and updated. The ability to find what you're looking for is right at your fingertips, all in one simple command prompt application.
+As a business owner, it is beneficial to be able to view and manage the departments, roles, and employees in your company. This employee Tracker is here to help you keep everything updated and organized.
 
 ## Languages
 This application was built using:
